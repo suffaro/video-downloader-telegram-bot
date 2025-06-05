@@ -1,0 +1,6 @@
+*.pyc
+.env
+*.json
+*.zip
+*.log
+/cookies/
